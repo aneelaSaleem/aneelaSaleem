@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneelaSaleem
 - 👀 I’m interested in Software Developement/Data Engineering
-- 🌱 I’m currently learning cloud services I.e., AWS, GCP etc.
+- 🌱 I’m currently using cloud platforms I.e., AWS, GCP etc.
 - 💞️ I’m looking to collaborate on ETL/Data Migration 
 - 📫 How to reach me aneela.pucitian@gmail.com
 
